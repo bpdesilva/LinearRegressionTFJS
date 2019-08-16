@@ -1,4 +1,4 @@
-# TFJS
+# TFJS [![GitHub version](https://badge.fury.io/gh/bpdesilva%2FLinearRegressionTFJS.svg)](https://badge.fury.io/gh/bpdesilva%2FLinearRegressionTFJS)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
